@@ -1,5 +1,5 @@
 # Geo-maps
-Folder containing maps, useful to plot on Power BI.
+Folder containing maps for Queensland only, useful to plot on Power BI.
 
 ### Links to resources:
 - Australian Bureau of Statistics: (Postal codes, Local Government Areas)
